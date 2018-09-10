@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{104:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Default Starter on gh-pages!!!"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----7b52bcf9bcc60d1d9250.js.map
